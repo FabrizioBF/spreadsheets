@@ -1,4 +1,4 @@
-As seguintes tarefas foram executadas:
+As seguintes tarefas foram executadas neste projeto:
 
 Abrir uma planilha;
 
@@ -12,4 +12,18 @@ Ler células de várias linhas ou colunas;
 
 Ler células de um intervalo;
 
-Ler todas as células em todas as planilhas.
+Ler todas as células em todas as planilhas;
+
+Crie uma planilha;
+
+Escreva em uma planilha;
+
+Adicionar e remover planilhas;
+
+Inserir e excluir linhas e colunas;
+
+Editar dados de uma célula;
+
+Criar células mescladas;
+
+Agrupar linhas e colunas.
