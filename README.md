@@ -14,9 +14,9 @@ Ler células de um intervalo;
 
 Ler todas as células em todas as planilhas;
 
-Crie uma planilha;
+Criar uma planilha;
 
-Escreva em uma planilha;
+Escrever em uma planilha;
 
 Adicionar e remover planilhas;
 
