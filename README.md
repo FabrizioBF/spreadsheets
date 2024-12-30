@@ -26,4 +26,6 @@ Editar dados de uma célula;
 
 Criar células mescladas;
 
-Ocultar linhas e colunas.
+Ocultar linhas e colunas;
+
+Congelar linhas e colunas.
