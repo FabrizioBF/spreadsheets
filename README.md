@@ -1,31 +1,31 @@
 As seguintes tarefas foram executadas neste projeto:
 
-Abrir uma planilha;
+1.Abrir uma planilha;
 
-Ler células específicas;
+2.Ler células específicas;
 
-Ler células de uma linha específica;
+3.Ler células de uma linha específica;
 
-Ler células de uma coluna específica;
+4.Ler células de uma coluna específica;
 
-Ler células de várias linhas ou colunas;
+5.Ler células de várias linhas ou colunas;
 
-Ler células de um intervalo;
+6.Ler células de um intervalo;
 
-Ler todas as células em todas as planilhas;
+7.Ler todas as células em todas as planilhas;
 
-Criar uma planilha;
+8.Criar uma planilha;
 
-Escrever em uma planilha;
+9.Escrever em uma planilha;
 
-Adicionar e remover planilhas;
+10.Adicionar e remover planilhas;
 
-Inserir e excluir linhas e colunas;
+11.Inserir e excluir linhas e colunas;
 
-Editar dados de uma célula;
+12.Editar dados de uma célula;
 
-Criar células mescladas;
+13.Criar células mescladas;
 
-Ocultar linhas e colunas;
+14.Ocultar linhas e colunas;
 
-Congelar linhas e colunas.
+15.Congelar linhas e colunas.
